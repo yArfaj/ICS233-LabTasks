@@ -1,0 +1,2 @@
+Write a MIPS program to copy an input text file into an output file. The input and output file
+names should be entered by the user. If the input file cannot be opened, print an error message.
