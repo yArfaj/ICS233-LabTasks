@@ -35,10 +35,10 @@ move $t0, $v0
   beqz $t0, exit
   
   
-  blt $t0, 500, div100
-  
   
 div500:
+  
+  blt $t0, 500, div100
   div $t2, $t0, 500
   
   
