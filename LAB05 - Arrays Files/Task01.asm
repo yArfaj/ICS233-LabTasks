@@ -32,7 +32,7 @@ li $v0, 9
 move $a0, $t1
 syscall 
 
-move $t2, $v0 # load the base-address in $t2
+move $t2, $v0 # store the base-address in $t2
 move $t6, $t2
 
 rowLoop:
@@ -78,3 +78,9 @@ rowLoop:
 exit:
     li $v0, 10
     syscall
+
+
+
+
+
+
