@@ -33,3 +33,9 @@
 ### [LAB07](./LAB07%20-%20MIPS%20Functions/)
 
 - [Tasks explanation (pdf)](./LAB07%20-%20MIPS%20Functions/Lab07_Tasks_s51.pdf)
+
+### [LAB08](./LAB07%20-%20MIPS%20Functions/)
+
+- [Tasks explanation (pdf)](LAB08%20-%20Exceptions%20and%20I:O/Lab8_Tasks.pdf)
+- [Task01](./LAB08%20-%20Exceptions%20and%20I:O/Task01.asm)
+- [Task02](./LAB08%20-%20Exceptions%20and%20I:O/Task02.asm)

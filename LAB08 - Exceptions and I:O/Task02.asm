@@ -1,5 +1,3 @@
-#####################	Description: MMIO		#####################
-#############################################################################
 main:
 
 	li $t0, 0xffff0000 # Address of keyboard control register
@@ -41,8 +39,4 @@ wait_dp:
 	move $a0, $t2
 	sw $a0, 4($t0) # Send character to display
 	j main
-
-exit:
-li $v0, 10
-syscall
 
